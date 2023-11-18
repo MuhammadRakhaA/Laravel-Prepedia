@@ -1,0 +1,43 @@
+.header {
+    background-color: #6fc090;
+}
+
+.body {
+    background-color: #CCFCCB;
+    width: 100%;
+    height: 100%;
+}
+
+
+.footer {
+    background-color: #6fc090;
+    width: 100%;
+}
+
+.footer .social-media {
+    display : flex;
+}
+
+.footer .social-media a{
+    display : flex;
+}
+.footer img {
+    margin-left : 30px;
+    margin : 10px;
+    width : 30px;
+}
+.footer p {
+    text-decoration : none;
+    display : block;
+    color : #dce0dd;
+    margin-top: 15px;
+}
+
+.footer h2{
+    color : white;
+    margin-bottom: 20px;
+}
+
+/* .all {
+    background-color: lightgray;
+} */
